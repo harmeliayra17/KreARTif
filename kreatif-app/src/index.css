@@ -1,0 +1,18 @@
+@tailwind utilities;
+@import "tailwindcss";
+
+/* custom styles */
+button {
+  cursor: pointer;
+}
+
+select {
+  background-color: rgba(0, 0, 0, 0.821);
+  color: white;
+}
+
+select option {
+  background-color: rgba(0, 0, 0, 0.821);
+  color: white;
+}
+
